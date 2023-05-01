@@ -1,2 +1,2 @@
 # go-learning
-Learning GO with team mates.
+Learning GO with teammates.
